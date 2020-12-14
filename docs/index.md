@@ -1,7 +1,7 @@
 --- 
 title: "Titre du projet"
 author: "___"
-date: "2020-12-13"
+date: "2020-12-14"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
